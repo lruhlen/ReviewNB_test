@@ -6,26 +6,6 @@ verify_ssl = true
 [dev-packages]
 
 [packages]
-Jinja2 = "*"
-black = "==19.3b0"
-boto3 = "*"
-click = "*"
-flake8 = "*"
-graphviz = "*"
-ipympl = "*"
-ipython-sql = "*"
-ipywidgets = "*"
-joblib = "*"
-jupyterlab = "*"
-jupytext = "*"
-matplotlib = "*"
-numpy = "*"
-pandas = "==0.24.2"
-psycopg2-binary = "*"
-pyathena = "*"
-pylint = "*"
-pytest = "*"
-scikit-learn = "*"
 
 [requires]
 python_version = "3.7"
